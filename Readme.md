@@ -25,12 +25,51 @@ This project implements a **ticket sales management system** for a theater. It a
 
 ## Compile the program:
   ```bash
-  javac src/TicketManagementSystem.java
-
-
-
+  javac src/TicketManagementSystem.java 
+  
 ## Run the program:
-  ```bash
+    ```bash
   java src.TicketManagementSystem
+
+
+## Example Usage
+=== Teatro Moro ===
+1. Ticket Sales
+2. View Sales Summary
+3. Generate Receipt
+4. Calculate Total Revenue
+5. Exit
+Select an option: 1
+
+=== Ticket Sales ===
+Available Events:
+1. Rolling Stones Concert - Price: $15000
+2. Don Quixote Theater Play - Price: $10000
+Select the event number: 1
+
+Available Seats:
+1. VIP - Price: $7000
+2. Platea - Price: $5000
+3. Box - Price: $3000
+Select the seat number: 1
+
+Are you a student? (Yes / No): Yes
+Event: Rolling Stones Concert
+Seat: VIP
+Base Price: $22000
+Discount Applied: 15%
+Final Price: $18700
+Ticket Sold! Enjoy the show.
+
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+This script will create a **README.md** file with all the necessary information in **one execution**. 🚀 Let me know if you need modifications!
+
+
+
+
 
 
