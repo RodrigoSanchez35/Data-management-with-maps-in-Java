@@ -17,9 +17,10 @@ This project implements a **ticket sales management system** for a theater. It a
 - **Data Structures:** `HashMap`, `ArrayList`
 - **User Input Handling:** `Scanner`
 
+ ```bash
 ## Installation & Execution
 1. Clone the repository:
-   ```bash
+  
    git clone https://github.com/your-username/Data-management-with-maps-in-Java.git
    cd Data-management-with-maps-in-Java
 
